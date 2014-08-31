@@ -2,9 +2,10 @@
 // Use of this source code is governed by the MIT
 // license that can be found in the LICENSE file.
 
-package urs
+package main
 
 import (
+	"crypto/ecdsa"
 	"crypto/elliptic"
 	crand "crypto/rand"
 	"fmt"
@@ -18,7 +19,7 @@ const numOfKeys = 1000
 var (
 	DefaultCurve = elliptic.P256()
 	keyring      *PublicKeyRing
-	testkey      *PrivateKey
+	testkey      *ecdsa.PrivateKey
 	testmsg      []byte
 	testsig      *RingSign
 )

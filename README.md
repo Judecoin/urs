@@ -1,5 +1,4 @@
 Unique Ring Signatures (URS)
-============================
 
 [URS](http://csiflabs.cs.ucdavis.edu/~hbzhang/romring.pdf) can be used to sign plaintext or binaries anonymously 
 (among a group of known users). That is a user can sign a 

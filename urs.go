@@ -1,4 +1,4 @@
-// Copyright 2014 Hein Meling and Haibin Zhang. All rights reserved.
+// Copyright 2018 Hein Meling and Haibin Zhang. All rights reserved.
 // Use of this source code is governed by the MIT
 // license that can be found in the LICENSE file.
 // Additional coding Copyright 2014 The Monero Developers.

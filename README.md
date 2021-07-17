@@ -36,7 +36,6 @@ the keyring are later revealed.
 For more information on signature blinding, refer to 
 [this link](https://download.wpsoftware.net/bitcoin/wizardry/ringsig-blinding.txt).
 
-
 ## Requirements
 [Go](http://golang.org) 1.2 or newer.
 
